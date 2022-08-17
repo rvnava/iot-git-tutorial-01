@@ -9,3 +9,4 @@ Ejemplo para agregar mi perfil de [GitHub](https://github.com/), el cual es [Ra�
 
 Nueva modificación para el ejemplo del primer commit por línea de comandos. Adicionalmente se utilizó clonado por terminal.
 
+Nueva línea para hacer el ejercicio del segundo commit realizado por terminal. Además se muestra el uso de Staging con git, además no se mostrará el archivo texto.txt.
