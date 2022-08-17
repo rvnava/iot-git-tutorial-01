@@ -1,0 +1,2 @@
+
+Ejemplo de la creación de un nuevo documento de texto. Con este archivo se mostrará el uso de Staging.
