@@ -16,3 +16,5 @@ Nueva línea para hacer el ejercicio del tercer commit realizado por terminal. E
 Nueva línea para hacer el primer ejercicio de commit por GitHub Desktop, usado para mostrar el funcionamiento de Pull.
 
 Línea que representa un commit realizado con la función Source Control de Visual Studio Code
+
+Nueva Línea para prueba de commit con VSC
