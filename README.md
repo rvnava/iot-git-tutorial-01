@@ -17,4 +17,6 @@ Nueva línea para hacer el primer ejercicio de commit por GitHub Desktop, usado 
 
 Línea que representa un commit realizado con la función Source Control de Visual Studio Code
 
-Nueva Línea para prueba de commit con VSC
+Nueva línea para prueba de commit con VSC
+
+Nueva línea para la práctica de la extensión de GitHub
